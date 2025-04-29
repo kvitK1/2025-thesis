@@ -1,0 +1,17 @@
+gender_grouped,percentage,cluster
+female,49.95,0
+male,48.15,0
+Other,1.52,0
+missing,0.38,0
+female,51.88,1
+male,46.11,1
+Other,1.35,1
+missing,0.67,1
+female,59.63,2
+male,38.99,2
+missing,1.0,2
+Other,0.38,2
+missing,55.57,3
+male,24.0,3
+female,17.43,3
+Other,3.0,3

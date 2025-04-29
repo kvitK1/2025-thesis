@@ -1,0 +1,111 @@
+time_periods_eng,percentage,cluster
+Any spare time,21.95,0
+Before going to sleep,9.48,0
+"Any spare time,Before going to sleep",7.81,0
+After morning coffee,7.79,0
+While commuting,7.53,0
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break,While commuting",4.57,0
+"Any spare time,Before going to sleep,While commuting",4.12,0
+"Any spare time,While commuting",4.09,0
+"After morning coffee,Any spare time,Before going to sleep",3.67,0
+"After morning coffee,Any spare time",3.45,0
+"After morning coffee,Before going to sleep",2.46,0
+"Before going to sleep,While commuting",2.37,0
+"After morning coffee,Any spare time,While commuting",2.15,0
+"Any spare time,Before going to sleep,During my lunch break",2.04,0
+During my lunch break,1.84,0
+Other,1.61,0
+"After morning coffee,While commuting",1.53,0
+"Any spare time,Before going to sleep,During my lunch break,While commuting",1.51,0
+"After morning coffee,Any spare time,Before going to sleep,While commuting",1.27,0
+"Any spare time,During my lunch break",1.07,0
+"After morning coffee,Before going to sleep,While commuting",1.02,0
+"Any spare time,During my lunch break,While commuting",0.99,0
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break",0.89,0
+"After morning coffee,Any spare time,During my lunch break",0.79,0
+"Before going to sleep,During my lunch break",0.71,0
+"During my lunch break,While commuting",0.67,0
+"After morning coffee,Any spare time,During my lunch break,While commuting",0.57,0
+"After morning coffee,Before going to sleep,During my lunch break",0.52,0
+"Before going to sleep,During my lunch break,While commuting",0.5,0
+"After morning coffee,During my lunch break,While commuting",0.5,0
+"After morning coffee,During my lunch break",0.36,0
+"After morning coffee,Before going to sleep,During my lunch break,While commuting",0.17,0
+Any spare time,45.82,1
+After morning coffee,16.84,1
+Before going to sleep,15.76,1
+While commuting,12.88,1
+During my lunch break,3.44,1
+Other,0.9,1
+"Any spare time,Before going to sleep",0.88,1
+"Any spare time,While commuting",0.56,1
+"After morning coffee,Before going to sleep",0.45,1
+"After morning coffee,Any spare time",0.4,1
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break,While commuting",0.27,1
+"Any spare time,Before going to sleep,While commuting",0.27,1
+"After morning coffee,Any spare time,Before going to sleep",0.23,1
+"Before going to sleep,While commuting",0.23,1
+"Any spare time,Before going to sleep,During my lunch break",0.2,1
+"After morning coffee,Any spare time,While commuting",0.16,1
+"After morning coffee,While commuting",0.11,1
+"Any spare time,During my lunch break",0.07,1
+"After morning coffee,Before going to sleep,While commuting",0.07,1
+"Before going to sleep,During my lunch break",0.07,1
+"After morning coffee,Any spare time,During my lunch break",0.05,1
+"During my lunch break,While commuting",0.05,1
+"Any spare time,During my lunch break,While commuting",0.05,1
+"After morning coffee,Before going to sleep,During my lunch break",0.04,1
+"After morning coffee,During my lunch break,While commuting",0.04,1
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break",0.04,1
+"After morning coffee,Any spare time,Before going to sleep,While commuting",0.04,1
+"After morning coffee,Any spare time,During my lunch break,While commuting",0.02,1
+"Any spare time,Before going to sleep,During my lunch break,While commuting",0.02,1
+"Before going to sleep,During my lunch break,While commuting",0.02,1
+"After morning coffee,During my lunch break",0.02,1
+"After morning coffee,Before going to sleep,During my lunch break,While commuting",0.02,1
+Any spare time,28.97,2
+Before going to sleep,13.2,2
+"Any spare time,Before going to sleep",7.74,2
+While commuting,6.41,2
+After morning coffee,6.2,2
+"Any spare time,While commuting",3.92,2
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break,While commuting",3.36,2
+"Any spare time,Before going to sleep,While commuting",3.08,2
+"After morning coffee,Any spare time,Before going to sleep",2.74,2
+Other,2.61,2
+"Before going to sleep,While commuting",2.59,2
+"After morning coffee,Before going to sleep",2.15,2
+"After morning coffee,Any spare time",2.13,2
+During my lunch break,1.92,2
+"Any spare time,Before going to sleep,During my lunch break",1.85,2
+"After morning coffee,Any spare time,While commuting",1.46,2
+"After morning coffee,While commuting",1.2,2
+"Any spare time,During my lunch break",1.1,2
+"After morning coffee,Any spare time,Before going to sleep,While commuting",0.92,2
+"Before going to sleep,During my lunch break",0.92,2
+"Any spare time,Before going to sleep,During my lunch break,While commuting",0.77,2
+"After morning coffee,Before going to sleep,While commuting",0.77,2
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break",0.64,2
+"Any spare time,During my lunch break,While commuting",0.64,2
+"After morning coffee,Any spare time,During my lunch break",0.54,2
+"Before going to sleep,During my lunch break,While commuting",0.46,2
+"During my lunch break,While commuting",0.38,2
+"After morning coffee,Before going to sleep,During my lunch break",0.33,2
+"After morning coffee,Any spare time,During my lunch break,While commuting",0.33,2
+"After morning coffee,During my lunch break",0.23,2
+"After morning coffee,During my lunch break,While commuting",0.21,2
+"After morning coffee,Before going to sleep,During my lunch break,While commuting",0.21,2
+Other,82.57,3
+After morning coffee,7.57,3
+Any spare time,3.0,3
+Before going to sleep,2.71,3
+While commuting,2.43,3
+"After morning coffee,Any spare time,Before going to sleep,During my lunch break,While commuting",0.29,3
+During my lunch break,0.29,3
+"Any spare time,Before going to sleep,While commuting",0.29,3
+"Any spare time,Before going to sleep",0.14,3
+"After morning coffee,Any spare time,Before going to sleep,While commuting",0.14,3
+"Before going to sleep,While commuting",0.14,3
+"After morning coffee,During my lunch break",0.14,3
+"After morning coffee,Any spare time,Before going to sleep",0.14,3
+"Any spare time,While commuting",0.14,3

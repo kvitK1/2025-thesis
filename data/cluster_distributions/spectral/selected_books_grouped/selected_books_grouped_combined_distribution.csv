@@ -1,0 +1,13 @@
+selected_books_grouped,percentage,cluster
+expected,99.44,0
+unusual,0.47,0
+missing,0.09,0
+expected,51.27,1
+unusual,41.59,1
+missing,7.14,1
+expected,98.54,2
+unusual,1.15,2
+missing,0.31,2
+expected,49.43,3
+missing,46.43,3
+unusual,4.14,3

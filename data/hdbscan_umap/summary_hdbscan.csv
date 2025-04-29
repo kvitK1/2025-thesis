@@ -1,0 +1,9 @@
+labels,what_summary_is_answer,survey_answer,statement_1,statement_2,statement_3,question_0,question_1,question_2,push_allow,version_grouped,country_grouped,age_grouped,device_grouped,gender_grouped,quiz_duration_grouped,goal_adjust_grouped,streak_commitment_level,engagement_window,life_desires_engagement,selected_books_grouped,season_category,size,purchase_rate
+-1,missing,missing,missing,missing,missing,missing,missing,missing,missing,after_299,United States,missing,iPhone_new,missing,short,small_goal,no_commit,none,missing,missing,Not high,2813,0.09491645929612513
+0,missing,missing,1,1,1,1,0,1,denied,after_299,United States,missing,iPhone_new,missing,short,default_goal,basic_commit,none,missing,expected,Not high,5671,0.16892964203844119
+1,missing,missing,1,1,missing,1,0,1,allow,before_299,Europe,25 — 34,iPhone_new,female,medium,small_goal,basic_commit,focused,expected,expected,Not high,9929,0.22247960519689797
+2,missing,missing,1,1,no_step,1,0,1,allow,before_299,Latam,25 — 34,iPhone_new,female,medium,small_goal,basic_commit,focused,expected,expected,High season,30342,0.20054709643398588
+3,missing,motivation,1,1,1,1,0,1,allow,after_299,United States,25 — 34,iPhone_new,female,short,default_goal,basic_commit,focused,expected,unusual,High season,27005,0.3429364932419922
+4,yes,motivation,1,1,1,1,0,1,allow,before_299,United States,25 — 34,iPhone_new,male,medium,default_goal,basic_commit,flexible,expected,expected,Not high,41193,0.3791420872478334
+5,yes,knowledge,1,1,1,1,0,1,allow,after_299,United States,25 — 34,iPhone_new,male,short,default_goal,basic_commit,focused,expected,expected,Not high,28325,0.3264254192409532
+6,yes,motivation,1,1,1,1,0,1,allow,before_299,United States,25 — 34,iPhone_new,female,short,small_goal,basic_commit,focused,expected,expected,Not high,38524,0.3478610736164469

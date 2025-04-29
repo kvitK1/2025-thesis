@@ -1,0 +1,1 @@
+best_cluster_size:2931, validity_index:0.7021369367149795

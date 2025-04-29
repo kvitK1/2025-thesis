@@ -1,0 +1,5 @@
+what_summary_is_answer,survey_answer,statement_1,statement_2,statement_3,question_0,question_1,question_2,push_allow,version_grouped,country_grouped,age_grouped,device_grouped,gender_grouped,quiz_duration_grouped,goal_adjust_grouped,streak_commitment_level,engagement_window,life_desires_engagement,selected_books_grouped,season_category,size,purchase_rate
+yes,motivation,1,1,1,1,0,1,allow,before_299,United States,25 — 34,iPhone_new,female,short,small_goal,basic_commit,flexible,expected,expected,Not high,8220,0.3610705596107056
+missing,knowledge,1,1,1,1,0,1,allow,after_299,United States,25 — 34,iPhone_new,female,short,default_goal,basic_commit,focused,expected,expected,High season,5559,0.3383702104695089
+missing,missing,1,1,no_step,1,0,1,allow,before_299,Latam,25 — 34,iPhone_new,female,medium,small_goal,basic_commit,focused,expected,expected,High season,3901,0.19584721866188157
+missing,missing,1,1,missing,missing,missing,1,missing,after_299,United States,missing,iPhone_new,missing,short,default_goal,basic_commit,none,missing,expected,Not high,700,0.13142857142857142

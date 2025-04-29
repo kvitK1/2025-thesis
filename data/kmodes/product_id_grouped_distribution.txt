@@ -1,0 +1,43 @@
+Cluster 0:
+  - trial_yearly: 78.94%
+  - paid_yearly: 10.46%
+  - paid_monthly_pro: 5.76%
+  - paid_yearly_pro: 3.48%
+  - paid_3months: 1.36%
+
+Cluster 1:
+  - trial_yearly: 71.39%
+  - paid_yearly: 17.71%
+  - paid_monthly_pro: 6.15%
+  - paid_yearly_pro: 3.15%
+  - paid_3months: 1.60%
+
+Cluster 2:
+  - trial_yearly: 76.59%
+  - paid_yearly: 11.27%
+  - paid_monthly_pro: 6.37%
+  - paid_yearly_pro: 4.03%
+  - paid_3months: 1.72%
+  - paid_monthly: 0.01%
+
+Cluster 3:
+  - paid_yearly: 63.33%
+  - trial_yearly: 28.42%
+  - paid_monthly_pro: 3.93%
+  - paid_yearly_pro: 2.21%
+  - paid_3months: 2.11%
+
+Cluster 4:
+  - trial_yearly: 79.70%
+  - paid_yearly: 8.52%
+  - paid_monthly_pro: 6.86%
+  - paid_yearly_pro: 3.36%
+  - paid_3months: 1.56%
+
+Cluster 5:
+  - trial_yearly: 78.47%
+  - paid_yearly: 10.59%
+  - paid_monthly_pro: 5.78%
+  - paid_yearly_pro: 3.62%
+  - paid_3months: 1.53%
+

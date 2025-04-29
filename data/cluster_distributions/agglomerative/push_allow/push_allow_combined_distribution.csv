@@ -1,0 +1,7 @@
+push_allow,percentage,cluster
+allow,65.51,0
+denied,26.38,0
+missing,8.11,0
+allow,75.33,1
+denied,20.61,1
+missing,4.06,1

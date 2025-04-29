@@ -1,0 +1,14 @@
+Cluster 0:
+  - trial_yearly: 76.28%
+  - paid_yearly: 8.70%
+  - paid_monthly_pro: 8.70%
+  - paid_yearly_pro: 4.55%
+  - paid_3months: 1.78%
+
+Cluster 1:
+  - trial_yearly: 69.85%
+  - paid_yearly: 19.60%
+  - paid_monthly_pro: 5.79%
+  - paid_yearly_pro: 3.38%
+  - paid_3months: 1.38%
+

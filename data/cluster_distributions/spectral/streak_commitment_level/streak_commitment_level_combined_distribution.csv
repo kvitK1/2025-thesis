@@ -1,0 +1,12 @@
+streak_commitment_level,percentage,cluster
+basic_commit,77.98,0
+strong_commit,21.95,0
+no_commit,0.07,0
+basic_commit,81.45,1
+strong_commit,18.55,1
+basic_commit,78.08,2
+strong_commit,21.71,2
+no_commit,0.21,2
+basic_commit,63.86,3
+no_commit,33.86,3
+strong_commit,2.29,3

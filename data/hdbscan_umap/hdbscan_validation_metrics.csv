@@ -1,0 +1,2 @@
+silhouette_score,davies_bouldin_index,calinski_harabasz_index,n_clusters
+0.69505113,0.3638312048146527,1398252.4259748445,7
