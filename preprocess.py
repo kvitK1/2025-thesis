@@ -115,18 +115,3 @@ def cluster_subsample(embeddings, labels, fraction=0.1):
     return np.concatenate(sampled_embeddings, axis=0), np.concatenate(
         sampled_labels, axis=0
     )
-
-
-# if __name__ == '__main__':
-#     # Example usage
-#     data = {'category': ['A', 'B', 'C', 'A', 'B'],
-#             'multi': ['apple, banana', 'banana', 'apple, cherry', 'banana', 'apple']}
-#     df = pd.DataFrame(data)
-
-#     categorical_cols = ['category']
-#     multilabel_cols = ['multi']
-
-#     encoded_data, encoders = one_hot_encode(df, categorical_cols, multilabel_cols)
-
-#     print("Encoded Data:\n", encoded_data)
-#     print("Encoders:\n", encoders)
